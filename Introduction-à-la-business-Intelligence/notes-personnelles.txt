@@ -1,0 +1,149 @@
+Les quatre fondamentaux de l’automatisation au travail 
+Auteurs : 
+Michael Chui, James Manyika, et Mehdi Miremadi 
+Source : 
+McKinsey Quarterly, Novembre 2015 
+Introduction 
+La capacité des machines à effectuer des tâches autrefois réservées aux humains n’est plus limitée à des 
+démonstrations spectaculaires comme celles de Watson d’IBM, Baxter de Rethink Robotics, DeepMind ou la 
+voiture autonome de Google. Il suffit d’aller dans un aéroport : aujourd’hui, les bornes d’enregistrement 
+automatiques dominent de nombreux halls de compagnies aériennes. Les pilotes dirigent activement les avions 
+pendant seulement trois à sept minutes de nombreux vols, le pilote automatique guidant le reste du trajet. Dans 
+certains aéroports, le contrôle des passeports met davantage l’accent sur le scan des codes-barres des documents 
+que sur l’observation des passagers entrants. 
+Quel sera l’impact de telles initiatives d’automatisation, multipliées dans tous les secteurs de l’économie ? Peut
+on s’attendre à des gains massifs de productivité, à une libération des tâches ennuyeuses et à une amélioration de 
+la qualité de vie ? Ou faut-il craindre des menaces pour l’emploi, des perturbations pour les organisations et des 
+tensions sociales ? 
+Plus tôt cette année, nous avons lancé une recherche pour explorer ces questions et étudier le potentiel que 
+recèlent les technologies d’automatisation pour les emplois, les organisations et l’avenir du travail. Nos résultats 
+à ce jour suggèrent, avant tout, que se concentrer sur les métiers est trompeur. Très peu de métiers seront 
+entièrement automatisés à court ou moyen terme. En réalité, ce sont certaines activités qui seront automatisées, 
+ce qui nécessitera de transformer des processus entiers et de redéfinir les emplois, tout comme le métier de 
+guichetier bancaire a été redéfini avec l’arrivée des distributeurs automatiques. 
+Plus précisément, notre recherche suggère qu’autant que 45 % des activités pour lesquelles les individus sont 
+payés peuvent être automatisées en adaptant des technologies déjà démontrées. Aux États-Unis, ces activités 
+représentent environ 2 000 milliards de dollars de salaires annuels. Bien que l’on pense souvent que 
+l’automatisation touche surtout les emplois peu qualifiés et faiblement rémunérés, nous avons découvert que 
+même les professions les mieux payées de l’économie, comme les directeurs financiers, les médecins et les 
+cadres supérieurs, y compris les PDG, comportent une part significative d’activités qui peuvent être 
+automatisées. 
+Les implications organisationnelles et managériales sont énormes : les dirigeants, du sommet à la base, devront 
+redéfinir les emplois et les processus pour que leurs organisations puissent tirer parti du potentiel 
+d’automatisation qui se répartit dans toute l’organisation. Et les opportunités vont bien au-delà des économies de 
+main-d’œuvre. Lorsque nous avons modélisé le potentiel de l’automatisation pour transformer les processus 
+métier dans plusieurs secteurs, nous avons constaté que les bénéfices (allant de l’augmentation de la production 
+à une meilleure qualité et une fiabilité accrue, ainsi que la possibilité d’exécuter certaines tâches à un niveau 
+« surhumain ») sont généralement de trois à dix fois supérieurs aux coûts. L’ampleur de ces bénéfices suggère 
+que la capacité à gérer et diriger des organisations de plus en plus automatisées deviendra un facteur de 
+différenciation compétitif important. 
+1. L’automatisation des activités 
+Ces résultats préliminaires sont basés sur des données du marché du travail américain. Nous avons structuré 
+notre analyse autour d’environ 2 000 activités professionnelles distinctes, et évalué les exigences de chacune de 
+ces activités par rapport à 18 capacités différentes qui pourraient potentiellement être automatisées (voir Schéma 
+1). Ces capacités vont de la motricité fine et de la navigation dans le monde physique, à la perception des 
+émotions humaines et à la production de langage naturel. Nous avons ensuite évalué l’« automatisabilité » de ces 
+capacités à l’aide des technologies de pointe actuelles, en ajustant le niveau de compétence requis pour les 
+métiers où le travail se fait dans des environnements imprévisibles. 
+En résumé, 45 % des activités professionnelles pourraient être automatisées avec des technologies déjà 
+éprouvées. Si les technologies capables de traiter et de « comprendre » le langage naturel atteignaient le niveau 
+médian de performance humaine, 13 % d’activités supplémentaires pourraient être automatisées dans l’économie 
+américaine. L’ampleur du potentiel d’automatisation reflète la rapidité avec laquelle les avancées en intelligence 
+artificielle et ses variantes, telles que l’apprentissage automatique, remettent en cause nos hypothèses sur ce qui 
+est automatisable. Il n’est plus vrai que seules les activités routinières et codifiables sont candidates à 
+l’automatisation et que les activités nécessitant des connaissances « tacites » ou une expérience difficile à 
+traduire en spécifications de tâches sont à l’abri de l’automatisation. 
+Dans de nombreux cas, la technologie d’automatisation peut déjà égaler, voire dépasser, le niveau médian de 
+performance humaine requis. Par exemple, le système d’intelligence artificielle Quill de Narrative Science 
+analyse des données brutes et génère du langage naturel, rédigeant en quelques secondes des rapports que les 
+lecteurs supposeraient écrits par un auteur humain. La flotte de robots Kiva d’Amazon est équipée de 
+technologies d’automatisation qui planifient, naviguent et se coordonnent entre les robots pour préparer les 
+commandes dans les entrepôts environ quatre fois plus vite que l’ancien système de l’entreprise. Watson d’IBM 
+peut suggérer des traitements disponibles pour des pathologies spécifiques, en s’appuyant sur la littérature 
+médicale relative à ces maladies. 
+Schéma 1 : Structure de l’analyse de l’automatisation des activités de travail 
+Description du schéma : 
+ L’analyse s’appuie sur environ 2 000 activités réparties dans ~800 métiers (exemples : vendeurs, 
+enseignants, praticiens de santé…) 
+ Exemples d’activités : accueillir les clients, répondre aux questions, nettoyer et entretenir, démontrer un 
+produit, traiter des transactions. 
+ 18 capacités humaines évaluées, dont : 
+o Perception et raisonnement social/émotionnel 
+o Compréhension et génération du langage naturel 
+o Recherche d’informations 
+o Reconnaissance de motifs 
+o Créativité 
+o Motricité fine et globale 
+o Navigation, mobilité, etc. 
+2. La redéfinition des emplois et des processus métier 
+Selon notre analyse, moins de 5 % des métiers peuvent être entièrement automatisés avec la technologie actuelle. 
+Cependant, environ 60 % des métiers pourraient voir au moins 30 % de leurs activités automatisées. Autrement 
+dit, l’automatisation va probablement modifier la grande majorité des métiers—au moins dans une certaine 
+mesure—ce qui nécessitera une redéfinition significative des emplois et une transformation des processus 
+métier. Par exemple, les agents de prêts hypothécaires passeront beaucoup moins de temps à inspecter et à traiter 
+des documents répétitifs et plus de temps à examiner les exceptions, ce qui leur permettra de traiter plus de prêts 
+et de passer plus de temps à conseiller les clients. De même, dans un monde où le diagnostic de nombreux 
+problèmes de santé pourrait être efficacement automatisé, un service d’urgence pourrait combiner le triage et le 
+diagnostic et laisser les médecins se concentrer sur les cas les plus aigus ou inhabituels tout en améliorant la 
+précision pour les cas les plus courants. 
+À mesure que les rôles et les processus sont redéfinis, les bénéfices économiques de l’automatisation iront bien 
+au-delà des économies de main-d’œuvre. Surtout dans les professions les mieux payées, les machines peuvent 
+augmenter considérablement les capacités humaines et amplifier la valeur de l’expertise en augmentant la 
+capacité de travail d’un individu et en libérant l’employé pour qu’il se concentre sur un travail à plus forte valeur 
+ajoutée. Les avocats utilisent déjà des techniques d’analyse de texte pour lire les milliers de documents collectés 
+lors de la découverte et pour identifier les plus pertinents pour un examen approfondi par le personnel juridique. 
+De même, les organisations commerciales pourraient utiliser l’automatisation pour générer des prospects et 
+identifier les opportunités les plus probables de ventes croisées et de ventes additionnelles, augmentant ainsi le 
+temps que les vendeurs de première ligne consacrent à interagir avec les clients et améliorant la qualité des 
+offres. 
+3. L’impact sur les professions à hauts salaires 
+La sagesse conventionnelle suggère que les activités peu qualifiées et faiblement rémunérées en première ligne 
+sont les plus susceptibles d’être automatisées. Nous sommes désormais en mesure d’examiner cette vision à 
+l’aide de la base de données complète des métiers que nous avons créée dans le cadre de cette recherche. Elle 
+englobe non seulement les métiers, les activités de travail, les capacités et leur automatisabilité, mais aussi les 
+salaires versés pour chaque métier. 
+Notre travail à ce jour suggère qu’un pourcentage significatif des activités réalisées même par les professions les 
+mieux rémunérées (par exemple, les planificateurs financiers, les médecins et les cadres supérieurs) peut être 
+automatisé en adaptant la technologie actuelle. Par exemple, nous estimons que des activités représentant plus de 
+20 % du temps de travail d’un PDG pourraient être automatisées grâce aux technologies actuelles. Cela inclut 
+l’analyse de rapports et de données pour éclairer les décisions opérationnelles, la préparation d’affectations de 
+personnel et la revue de rapports d’activité. À l’inverse, il existe de nombreux métiers à bas salaires, tels que les 
+aides à domicile, les jardiniers et les agents d’entretien, pour lesquels seul un très faible pourcentage des 
+activités pourrait être automatisé avec la technologie disponible aujourd’hui. 
+Schéma 2 : Potentiel d’automatisation en fonction du salaire horaire 
+Description du schéma : 
+ Axe horizontal : Salaire horaire ($/heure) 
+ Axe vertical : Pourcentage du temps de travail pouvant être automatisé 
+ Exemples marquants : 
+o PDG : salaire élevé, part non négligeable de tâches automatisables 
+o Agents d’entretien des espaces verts : salaire bas, peu de tâches automatisables 
+o Commis de classement : salaire moyen, tâches très automatisables 
+ Corrélation faible entre salaire et automatisabilité (r² = 0,19) 
+4. L’avenir de la créativité et du sens 
+Des capacités telles que la créativité et la perception des émotions sont au cœur de l’expérience humaine et 
+également difficiles à automatiser. Pourtant, le temps que les travailleurs consacrent à des activités nécessitant 
+ces capacités semble étonnamment faible. Seulement 4 % des activités professionnelles dans l’ensemble de 
+l’économie américaine exigent un niveau médian de créativité humaine. De même, seulement 29 % des activités 
+professionnelles exigent un niveau médian de perception émotionnelle humaine. 
+Bien que ces résultats puissent être déplorés comme reflétant la pauvreté de nos vies professionnelles, ils 
+suggèrent aussi la possibilité de générer une plus grande quantité de travail porteur de sens. Cela pourrait se 
+produire à mesure que l’automatisation remplace davantage de tâches routinières ou répétitives, permettant aux 
+employés de se concentrer davantage sur des tâches faisant appel à la créativité et à l’émotion. Par exemple, les 
+conseillers financiers pourraient passer moins de temps à analyser la situation financière des clients et plus de 
+temps à comprendre leurs besoins et à expliquer des options créatives. Les décorateurs d’intérieur pourraient 
+passer moins de temps à prendre des mesures, à développer des illustrations et à commander des matériaux, et 
+plus de temps à développer des concepts de design innovants basés sur les désirs des clients. 
+Conclusion 
+Ces résultats intermédiaires, qui mettent en avant la clarté apportée par l’examen de l’automatisation à travers le 
+prisme des activités de travail plutôt que des métiers, ne visent en aucun cas à minimiser les défis et les risques 
+pressants qui doivent être compris et gérés. De toute évidence, les organisations et les gouvernements devront 
+trouver de nouveaux moyens d’atténuer les coûts humains, y compris les pertes d’emplois et les inégalités 
+économiques, associés aux perturbations qui se produisent lorsque les entreprises séparent les activités pouvant 
+être automatisées des personnes qui les effectuent actuellement. D’autres préoccupations portent sur la vie 
+privée, l’automatisation augmentant la quantité de données collectées et diffusées. Les risques de qualité et de 
+sécurité découlant des processus et des offres automatisés sont également largement indéfinis, tandis que les 
+implications juridiques et réglementaires pourraient être énormes. Pour prendre un exemple : qui est responsable 
+si un bus scolaire autonome a un accident ? 
+Nous n’avons pas encore de point de vue définitif sur le rythme probable de la transformation apportée par 
+l’automatisation au travail. Les facteurs critiques incluent la rapidité avec laquelle les technologies 
+d’automatisation sont développées, adoptées et adaptées, ainsi que... 
