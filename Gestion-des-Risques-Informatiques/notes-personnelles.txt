@@ -1,0 +1,7 @@
+Ce cours de gestion des risques informatique m’a permis de mieux comprendre l’importance de l’anticipation et de la maîtrise des menaces qui pèsent sur les systèmes d’information. Avant de suivre ce module, j’avais une vision assez floue des risques informatiques, que je limitais surtout aux virus ou aux pannes matérielles. J’ai découvert que la gestion des risques est bien plus large et structurée.
+
+J’ai particulièrement apprécié la méthodologie d’analyse des risques, notamment l’approche EBIOS, qui propose une démarche claire pour identifier, évaluer et traiter les risques. Les études de cas et les exemples concrets (attaques de ransomware, fuites de données, erreurs humaines) m’ont permis de réaliser à quel point la sécurité doit être pensée à tous les niveaux de l’organisation.
+
+Le cours a aussi insisté sur l’importance de la sensibilisation des utilisateurs et sur la nécessité de mettre en place des politiques de sécurité adaptées. J’ai compris que la technologie seule ne suffit pas : la gestion des risques est aussi une question de culture d’entreprise et de processus.
+
+Enfin, ce module m’a donné envie d’approfondir mes connaissances sur les normes (ISO 27001, RGPD) et les outils de gestion des risques. Je ressors de ce cours avec une vision plus globale et pragmatique de la sécurité informatique, et je me sens mieux armé pour contribuer à la protection des systèmes d’information dans un contexte professionnel.
