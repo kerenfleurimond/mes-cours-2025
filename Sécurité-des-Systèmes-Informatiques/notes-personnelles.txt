@@ -1,0 +1,15 @@
+Ce cours m’a offert une compréhension approfondie des normes internationales majeures en matière de sécurité de l’information, à savoir la famille ISO 27000, avec un focus particulier sur ISO 27001 et ISO 27005. Avant ce cours, je connaissais vaguement l’existence de ces normes, mais je ne mesurais pas leur importance stratégique pour la gouvernance de la sécurité informatique.
+
+ISO 27000 : Cadre et Terminologie
+Le cours a débuté par une introduction à la norme ISO 27000, qui définit le vocabulaire et le cadre général de la gestion de la sécurité de l’information. Cette base est essentielle pour harmoniser les pratiques et faciliter la communication entre les différents acteurs de la sécurité.
+
+ISO 27001 : Système de Management de la Sécurité de l’Information (SMSI)
+J’ai particulièrement apprécié l’étude détaillée de la norme ISO 27001, qui décrit les exigences pour établir, mettre en œuvre, maintenir et améliorer un SMSI. La méthodologie PDCA (Plan-Do-Check-Act) appliquée à la sécurité m’a semblé très pragmatique et adaptable à toute organisation, quelle que soit sa taille. Le processus d’audit et de certification ISO 27001 m’a aussi permis de comprendre comment garantir la conformité et la confiance auprès des parties prenantes.
+
+ISO 27005 : Gestion des Risques en Sécurité de l’Information
+La norme ISO 27005, dédiée à la gestion des risques, complète parfaitement ISO 27001 en fournissant une méthode structurée pour identifier, analyser, évaluer et traiter les risques liés à la sécurité de l’information. J’ai trouvé cette partie très enrichissante car elle met en lumière l’importance d’une approche proactive, basée sur des critères objectifs, pour protéger les actifs informationnels.
+
+Apports personnels
+Ce cours m’a convaincu que la mise en place d’un SMSI conforme aux normes ISO est un levier clé pour renforcer la résilience des organisations face aux menaces cybernétiques. Je suis désormais motivé à approfondir mes compétences en audit ISO 27001 et en évaluation des risques selon ISO 27005, car ces savoir-faire sont très demandés sur le marché.
+
+En résumé, cette formation a été un excellent tremplin pour maîtriser les bonnes pratiques internationales en sécurité de l’information et pour envisager une carrière dans ce domaine stratégique.
